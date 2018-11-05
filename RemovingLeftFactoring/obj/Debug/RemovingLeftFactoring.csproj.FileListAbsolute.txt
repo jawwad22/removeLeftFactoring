@@ -1,0 +1,6 @@
+D:\LAST SEMESTER\C.C\RemovingLeftFactoring\RemovingLeftFactoring\bin\Debug\RemovingLeftFactoring.exe.config
+D:\LAST SEMESTER\C.C\RemovingLeftFactoring\RemovingLeftFactoring\obj\Debug\RemovingLeftFactoring.csprojResolveAssemblyReference.cache
+D:\LAST SEMESTER\C.C\RemovingLeftFactoring\RemovingLeftFactoring\bin\Debug\RemovingLeftFactoring.exe
+D:\LAST SEMESTER\C.C\RemovingLeftFactoring\RemovingLeftFactoring\bin\Debug\RemovingLeftFactoring.pdb
+D:\LAST SEMESTER\C.C\RemovingLeftFactoring\RemovingLeftFactoring\obj\Debug\RemovingLeftFactoring.exe
+D:\LAST SEMESTER\C.C\RemovingLeftFactoring\RemovingLeftFactoring\obj\Debug\RemovingLeftFactoring.pdb
